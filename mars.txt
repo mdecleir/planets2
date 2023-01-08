@@ -5,3 +5,4 @@ favorite
 color
 The two moons may be a problem for Wolfman.
 Mars is very red.
+Mars is actually nice!
